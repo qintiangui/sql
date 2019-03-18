@@ -1,0 +1,24 @@
+.title{
+  margin-top: 20px;
+}
+.title h4{
+    font-weight: 400;
+  }
+.title span{
+    margin: 0 15px;
+    color: #999999;
+}
+.title span:nth-child(1){
+    margin-left: 0;
+}
+.btnat{
+    margin:20px 0;
+}
+.btnat span{
+    width: 200px;
+    padding: 10px 20px;
+    border: 1px solid #92b3d3;
+}
+.btnat hr{
+    margin-top: 30px;
+}

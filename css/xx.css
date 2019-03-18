@@ -1,0 +1,55 @@
+.smain{
+    margin: 50px 0;
+    display: flex;
+}
+.smain .sl{
+    width: 50%;
+    text-align:center;
+}
+.smain .sl img{
+    width: 350px;
+    height: 350px;
+}
+.smain .sr{
+    width: 50%;
+    margin-left: auto;
+}
+.smain .sr .can p span:nth-child(2n){
+   margin-left: 100px;
+}
+.xcontent{
+    display: flex;
+    margin-top: 100px;
+    margin-bottom: 20px;
+}
+.xcontent .xl{
+    width: 202px;
+}
+.xcontent .xl h4{
+    font-weight: 300;
+    font-size: 15px;
+}
+.xcontent .xl .card{
+    text-align: center;
+    margin-top: 20px;
+    border: none;
+}
+.xcontent .xl .card img{
+    width: 100%;
+    height: 202px;
+}
+.xcontent .xl .card h4{
+    margin-top: 10px;
+}
+.xcontent .xr{
+    width: 900px;
+    margin-left: auto;
+}
+.xcontent .xr ul{
+    margin-top: 10px;
+    list-style: none;
+}
+.xcontent .xr ul li{
+    display: inline-block;
+    margin: 0 15px;
+}

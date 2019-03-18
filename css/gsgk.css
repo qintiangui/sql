@@ -1,0 +1,14 @@
+.txt{
+    margin-top: 30px;
+    margin-bottom: 60px;
+    padding:20px 15px;
+    font-size: 15px;
+    line-height: 1.42857;
+    border: 1px solid #e4eaec;
+}
+.txt p{
+    margin-bottom: 50px;
+}
+.th{
+    margin-bottom: 0;
+}
